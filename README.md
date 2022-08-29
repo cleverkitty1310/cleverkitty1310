@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a Senior Machine Learning Engineer and Software Developer.
-Especially, I have proven experiences with Artificial Intelligence, Full-stack, Mobile & Desktop app development. I have over 7+ years of experience in Machine Learning, Desktop App, Mobile App, Web and Blockchain technology development and IT consult.
+Especially, I have proven experiences with Artificial Intelligence, Full-stack, Mobile & Desktop app development. I have over 9+ years of experience in Machine Learning, Desktop App, Mobile App, Web and Blockchain technology development and IT consult.
 
 Passionate about launching, developing, and maintaining web and mobile projects requiring a abroad yet experienced skillset. Intuitive problem-solving skills and proficient in front and back-end development, mobile app development, system and application security, auditing and project management and blockchain technology.
 

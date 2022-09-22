@@ -7,7 +7,7 @@ Especially, I have proven experiences with Artificial Intelligence, Full-stack, 
 
 Passionate about launching, developing, and maintaining web and mobile projects requiring a abroad yet experienced skillset. Intuitive problem-solving skills and proficient in front and back-end development, mobile app development, system and application security, auditing and project management and blockchain technology.
 
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3GYmecuz4ncOc/giphy.gif" width="400" height="256" />
  
 #### AI & Machine Learning Development
 - C++, C#, Java, Python, R
